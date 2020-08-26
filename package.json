@@ -43,7 +43,7 @@
     "rtcmulticonnection.js",
     "multirtc",
     "webrtc-experiment",
-    "javascript-library",
+    "javascript-library"
   ],
   "dependencies": {
     "canvas-designer": "latest",
